@@ -1,0 +1,44 @@
+TITLE = New Year
+START = 2026-01-01 00:00
+;
+TITLE = Exam
+START = 2025-12-17 18:00
+END = 2025-12-17 18:00
+PLACE = 310
+MEMO = 
+;
+TITLE = Test Save
+START = 2025-12-27 18:00
+PLACE = 
+MEMO = 
+;
+TITLE = 리포트1 마감
+START = 2026-03-15 23:59
+PLACE = 
+MEMO = 
+;
+TITLE = 개강
+START = 2026-03-02 13:00
+END = 2026-03-02 13:50
+PLACE = EClass
+MEMO = 
+;
+TITLE = 식목일
+START = 2026-04-05 00:00
+MEMO = 
+;
+TITLE = 과제 4 마감
+START = 2026-05-10 23:59
+PLACE = eClass
+MEMO = 
+;
+TITLE = 과제 5 마감
+START = 2026-05-24 23:59
+PLACE = eClass
+MEMO = 
+;
+TITLE = 어린이날
+START = 2026-05-05 00:00
+PLACE = 
+MEMO = 
+;
